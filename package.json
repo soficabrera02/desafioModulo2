@@ -1,0 +1,15 @@
+{
+  "name": "tp-2-sofia-cabrera",
+  "version": "1.0.0",
+  "description": "Este proyecto es un sistema de gestion de libros que te permite realizar diversas operaciones, como obtener informacion sobre libros por ID, autor, nombre, genero.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
